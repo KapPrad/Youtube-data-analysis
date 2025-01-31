@@ -8,9 +8,4 @@ This project analyzes **YouTube Trending Videos** using **R** to uncover the fac
 ✅ Identifying the **most popular content categories**  
 ✅ Analyzing **title, description, and tag optimization strategies**  
 ✅ Evaluating **the role of engagement in YouTube’s algorithm**  
-
-🔗 **Live Repository:** [GitHub Repo Link Here]  
-
----
-
-## 📂 Project Structure  
+  
